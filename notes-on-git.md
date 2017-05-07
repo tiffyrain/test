@@ -1,5 +1,7 @@
 ## Git commands
 
+- `git status`
+  - shows changes in local repo
 - `git add --all`
   - adds all untracked/modified files
 - `git commit -m "<message>"`
@@ -8,7 +10,8 @@
   - makes sure the local repo is up to date with the remote repo
 - `git push origin master`
   - makes sure the remote repo is up to date with the local repo
-  
+
+
 
 
 
@@ -22,3 +25,7 @@
   - paste
 - ctrl+s
   - save
+- alt+tab
+  - switch between windows
+- ctrl+r
+  - refresh web page
